@@ -1,3 +1,3 @@
 
 // Write your code here
-let  multiply=6*6
+const multiply=6*6
