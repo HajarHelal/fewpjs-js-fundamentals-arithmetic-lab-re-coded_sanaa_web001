@@ -1,3 +1,5 @@
 
 // Write your code here
-const multiply=6*6
+let num1=6
+let num2=6
+const multiply=num1*num2
